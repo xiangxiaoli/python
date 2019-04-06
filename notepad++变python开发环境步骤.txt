@@ -1,0 +1,8 @@
+安装notepad++、python3,然后
+1.Notepad++ ->"运行"菜单->"运行"按钮
+
+2. 在弹出的窗口内输入以下命令：
+
+cmd /k python "$(FULL_CURRENT_PATH)" & ECHO. & PAUSE & EXIT
+
+然后点击“保存”，随意取一个名字，比如“RunPython”，为方便，配置一下快捷键（比如 Ctrl + F5），点OK即可。之后运行Python文件只要按配置的快捷键或者在运行菜单上点“RunPython”即可。
