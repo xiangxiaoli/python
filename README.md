@@ -2,7 +2,9 @@
 一、开始使用python进行编程
 
 （一）搭建python开发环境
+
 1.登陆https://www.python.org/downloads/release/python-373/ 下载供windows使用的python安装包；或者登陆百度网盘下载
+
 2.一路next安装到指定的文件夹，然后添加所在的文件夹到环境变量Path下面，按住win+R运行cmd命令，然后在cmd 环境中输入python -v,输出版本信息则证明安装成功，否则就是不成功。
 
       Python 3.5.0 (v3.5.0:374f501f4567, Sep 13 2015, 02:27:37) [MSC v.1900 64 bit (AMD64)] on win32
