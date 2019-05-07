@@ -21,3 +21,8 @@
 
         Make sure you are in the directory below auto_py_to_exe (you will be after step 3) when calling python -m auto_py_to_exe or you   will   need to reference the folder auto_py_to_exe absolutely/relatively to where you currently are.
  4.安装notepad++，并将notepad++设置为python开发环境，设置步骤见文档
+
+（二）开始对python语言进行编程，通常按照以下步骤来进行：
+    5.DayOne内容：（1）变量的命名，类型，运算符
+                  （2）输出输入，通常包含两个方面，一是dos端的输入输出，二是GUI的输入输出
+                  （3）文件的操作，读，写，改，删，增
